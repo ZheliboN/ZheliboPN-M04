@@ -6,4 +6,4 @@ def test_function():
 
 test_function()
 inner_function()
-# inner_function() - внутри функции test_function, вызов напраямую из прогррамы невозможен
+# inner_function() - внутри функции test_function, вызов напрямую из программы невозможен, т.е. вне области видимости
